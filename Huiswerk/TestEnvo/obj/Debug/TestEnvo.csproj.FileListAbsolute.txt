@@ -1,0 +1,7 @@
+C:\Users\lars-\Desktop\SchoolHuiswerk\CPPHuiswerk\Huiswerk\TestEnvo\bin\Debug\TestEnvo.exe.config
+C:\Users\lars-\Desktop\SchoolHuiswerk\CPPHuiswerk\Huiswerk\TestEnvo\bin\Debug\TestEnvo.exe
+C:\Users\lars-\Desktop\SchoolHuiswerk\CPPHuiswerk\Huiswerk\TestEnvo\bin\Debug\TestEnvo.pdb
+C:\Users\lars-\Desktop\SchoolHuiswerk\CPPHuiswerk\Huiswerk\TestEnvo\obj\Debug\TestEnvo.csprojResolveAssemblyReference.cache
+C:\Users\lars-\Desktop\SchoolHuiswerk\CPPHuiswerk\Huiswerk\TestEnvo\obj\Debug\TestEnvo.csproj.CoreCompileInputs.cache
+C:\Users\lars-\Desktop\SchoolHuiswerk\CPPHuiswerk\Huiswerk\TestEnvo\obj\Debug\TestEnvo.exe
+C:\Users\lars-\Desktop\SchoolHuiswerk\CPPHuiswerk\Huiswerk\TestEnvo\obj\Debug\TestEnvo.pdb
