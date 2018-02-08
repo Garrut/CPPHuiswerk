@@ -1,0 +1,9 @@
+C:\Users\ev0057149\Documents\Visual Studio 2017\Projects\MatrixTransformations\MatrixTransformations\bin\Debug\MatrixTransformations.exe.config
+C:\Users\ev0057149\Documents\Visual Studio 2017\Projects\MatrixTransformations\MatrixTransformations\bin\Debug\MatrixTransformations.exe
+C:\Users\ev0057149\Documents\Visual Studio 2017\Projects\MatrixTransformations\MatrixTransformations\bin\Debug\MatrixTransformations.pdb
+C:\Users\ev0057149\Documents\Visual Studio 2017\Projects\MatrixTransformations\MatrixTransformations\obj\Debug\MatrixTransformations.csprojResolveAssemblyReference.cache
+C:\Users\ev0057149\Documents\Visual Studio 2017\Projects\MatrixTransformations\MatrixTransformations\obj\Debug\MatrixTransformations.Properties.Resources.resources
+C:\Users\ev0057149\Documents\Visual Studio 2017\Projects\MatrixTransformations\MatrixTransformations\obj\Debug\MatrixTransformations.csproj.GenerateResource.Cache
+C:\Users\ev0057149\Documents\Visual Studio 2017\Projects\MatrixTransformations\MatrixTransformations\obj\Debug\MatrixTransformations.csproj.CoreCompileInputs.cache
+C:\Users\ev0057149\Documents\Visual Studio 2017\Projects\MatrixTransformations\MatrixTransformations\obj\Debug\MatrixTransformations.exe
+C:\Users\ev0057149\Documents\Visual Studio 2017\Projects\MatrixTransformations\MatrixTransformations\obj\Debug\MatrixTransformations.pdb
