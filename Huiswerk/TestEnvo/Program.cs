@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using TestEnvo.AI;
 
 namespace TestEnvo
 {
@@ -11,10 +12,20 @@ namespace TestEnvo
     {
         static void Main(string[] args)
         {
-            greatestCommonDivisor(20, 15);
+            //GreatestCommonDivisor(20, 15);
+            DisjointSets sets = new DisjointSets(10);
+
+            Console.WriteLine(sets.ToString());
+
+            sets.Union(5, 1);
+            sets.Union(2, 3);
+            sets.Union(5, 2);
+
+            Console.WriteLine(sets.ToString());
+
         }
 
-        static void greatestCommonDivisor(int x, int y)
+        /*static void GreatestCommonDivisor(int x, int y)
         {
 
             Math.DivRem(x, y, out int rem);
@@ -32,6 +43,6 @@ namespace TestEnvo
                 BIG = y;
                 SMALL = x;
             }
-        }
+        }*/
     }
 }

@@ -37,6 +37,8 @@ namespace TestEnvo
 
         public static Matrix operator +(Matrix m1, Matrix m2)
         {
+            throw new NotImplementedException();
+
             Matrix result;
 
             for(int i = 0; i < MATRIXLENGTH; i++)
