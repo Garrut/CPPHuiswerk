@@ -42,7 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AI\DisjointSets.cs" />
+    <Compile Include="AI\DisjointSet.cs" />
+    <Compile Include="AI\Maze.cs" />
     <Compile Include="CPG\Matrix.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

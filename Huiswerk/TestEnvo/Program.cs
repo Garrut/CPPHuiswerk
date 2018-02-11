@@ -13,7 +13,7 @@ namespace TestEnvo
         static void Main(string[] args)
         {
             //GreatestCommonDivisor(20, 15);
-            DisjointSets sets = new DisjointSets(10);
+            DisjointSet sets = new DisjointSet(10);
 
             Console.WriteLine(sets.ToString());
 
