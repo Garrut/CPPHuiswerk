@@ -44,7 +44,7 @@ namespace TestEnvo.AI
 
         private void AddEdges()
         {
-             
+            
         }
 
         public Maze(int width, int height)
