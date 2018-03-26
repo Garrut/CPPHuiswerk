@@ -1,3 +1,4 @@
-﻿  LectureTwo.cpp
+﻿  stdafx.cpp
+  LectureTwo.cpp
 c:\users\lars-\desktop\schoolhuiswerk\cpphuiswerk\huiswerk\lecturetwo\lecturetwo.cpp(37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
   LectureTwo.vcxproj -> C:\Users\lars-\Desktop\SchoolHuiswerk\CPPHuiswerk\Huiswerk\x64\Debug\LectureTwo.exe

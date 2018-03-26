@@ -1,3 +1,4 @@
 ﻿  stdafx.cpp
   LectureOne.cpp
+c:\users\lars-\desktop\schoolhuiswerk\cpphuiswerk\huiswerk\lectureone\lectureone.cpp(8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   LectureOne.vcxproj -> C:\Users\lars-\Desktop\SchoolHuiswerk\CPPHuiswerk\Huiswerk\x64\Debug\LectureOne.exe
